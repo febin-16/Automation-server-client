@@ -1,0 +1,8 @@
+/home/pelatro/pelatro/automation/thirdpartysite/src/main/java/com/pelatro/automation/gui/backend/thirdpartysite/App.java
+/home/pelatro/pelatro/automation/thirdpartysite/src/main/java/com/pelatro/automation/gui/backend/thirdpartysite/utils/Assertion.java
+/home/pelatro/pelatro/automation/thirdpartysite/src/main/java/com/pelatro/automation/gui/backend/thirdpartysite/login/LoginPage.java
+/home/pelatro/pelatro/automation/thirdpartysite/src/main/java/com/pelatro/automation/gui/backend/thirdpartysite/server/ServerSteps.java
+/home/pelatro/pelatro/automation/thirdpartysite/src/main/java/com/pelatro/automation/gui/backend/thirdpartysite/utils/RemoteServerProperties.java
+/home/pelatro/pelatro/automation/thirdpartysite/src/main/java/com/pelatro/automation/gui/backend/thirdpartysite/utils/sshRemoteExampleUserInfo.java
+/home/pelatro/pelatro/automation/thirdpartysite/src/main/java/com/pelatro/automation/gui/backend/thirdpartysite/generic/Page.java
+/home/pelatro/pelatro/automation/thirdpartysite/src/main/java/com/pelatro/automation/gui/backend/thirdpartysite/utils/ConnectRemoteServer.java

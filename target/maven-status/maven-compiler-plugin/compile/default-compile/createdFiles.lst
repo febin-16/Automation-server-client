@@ -1,0 +1,8 @@
+com/pelatro/automation/gui/backend/thirdpartysite/generic/Page.class
+com/pelatro/automation/gui/backend/thirdpartysite/utils/ConnectRemoteServer.class
+com/pelatro/automation/gui/backend/thirdpartysite/App.class
+com/pelatro/automation/gui/backend/thirdpartysite/server/ServerSteps.class
+com/pelatro/automation/gui/backend/thirdpartysite/utils/Assertion.class
+com/pelatro/automation/gui/backend/thirdpartysite/utils/sshRemoteExampleUserInfo.class
+com/pelatro/automation/gui/backend/thirdpartysite/utils/RemoteServerProperties.class
+com/pelatro/automation/gui/backend/thirdpartysite/login/LoginPage.class

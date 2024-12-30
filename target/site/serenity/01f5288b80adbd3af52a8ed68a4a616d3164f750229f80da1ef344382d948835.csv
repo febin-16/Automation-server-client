@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Login","Validate that user is able to login","SUCCESS","2024-12-30T09:42:50.691+05:30[Asia/Kolkata]","0.0","24.92"
+"CreateDirectory","Validate that directory is created","SUCCESS","2024-12-30T09:43:15.835+05:30[Asia/Kolkata]","0.0","20.52"
